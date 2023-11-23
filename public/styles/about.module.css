@@ -1,0 +1,25 @@
+#about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+}
+
+#about-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aboutTitle {
+  text-decoration: none;
+  color: inherit;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.aboutText {
+  text-align: center;
+  position: relative;
+  top: 40vh;
+}

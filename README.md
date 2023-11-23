@@ -1,1 +1,1 @@
-This project aims to create a website for a nail salong. WIP.
+This project aims to create a website for a nail salon. WIP.

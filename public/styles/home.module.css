@@ -1,0 +1,25 @@
+#home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+}
+
+#home-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.homeTitle {
+  text-decoration: none;
+  color: inherit;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.homeText {
+  text-align: center;
+  position: relative;
+  top: 40vh;
+}
